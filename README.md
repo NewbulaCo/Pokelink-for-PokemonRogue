@@ -13,6 +13,7 @@ The PokeLink app is a tool to update your ingame Pokemon party to your OBS layou
   - Step 3: Once loaded, hit "Stop" on the VBA script. Navigate to the PokeLink folder.
   - Step 4: Open **pokemonrogue-pokelink_vX.zip**, extract **'pokelink'** and merge it with the original PokeLink folder. Replace files as necessary.
   - Step 5: Hit "Run" on VBA.
+  - PLEASE NOTE: You must do this every time you open a new session, since PokeLink rewrites the configs.
 
 # Known Issues
   - Abilities and Item names currently won't display properly
