@@ -11,7 +11,7 @@ The PokeLink app is a tool to update your ingame Pokemon party to your OBS layou
   - Step 1: On the PokeLink app page, start a new Session, select Automatic Party Management, and select Pokemon Emerald.
   - Step 2: Load VBA, load Pokemon Emerald Rouge, then go to Tools > Lua Scripting > New Lua Script Window. Copy and paste the script directory into VBA as normal.
   - Step 3: Once loaded, hit "Stop" on the VBA script. Navigate to the PokeLink folder.
-  - Step 4: Open *pokemonrogue-pokelink_vX.zip*, extract *'pokelink'* and merge it with the original PokeLink folder. Replace files as necessary.
+  - Step 4: Open **pokemonrogue-pokelink_vX.zip**, extract **'pokelink'** and merge it with the original PokeLink folder. Replace files as necessary.
   - Step 5: Hit "Run" on VBA.
 
 # Known Issues
