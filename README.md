@@ -2,6 +2,8 @@
 
 The PokeLink app is a tool to update your ingame Pokemon party to your OBS layout for streaming. However, PokeLink doesn't have much support for rom hacks, so I made these custom configs which allow it to work with Pokemon Emerald Rogue.
 
+!SS(https://i.imgur.com/6ffe7Cy.png)
+
 # DISCLAIMER
   I am not affiliated with Pokemon Emerald Rogue or PokeLink. Please do not bother them regarding this project.
 
