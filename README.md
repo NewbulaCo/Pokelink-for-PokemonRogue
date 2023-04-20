@@ -19,6 +19,7 @@ The PokeLink app is a tool to update your ingame Pokemon party to your OBS layou
 
 # Known Issues
   - Abilities and Item names currently won't display properly
+  - #891 - #898 (Gen 8 DLC) appear glitchy
   
 # Special Thanks
   - The PokeLink team, who made this great app
