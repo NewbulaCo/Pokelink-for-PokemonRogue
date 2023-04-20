@@ -15,10 +15,10 @@ The PokeLink app is a tool to update your ingame Pokemon party to your OBS layou
   -Step 5: Hit "Run" on VBA.
   
 
-#Known Issues
+# Known Issues
   -Abilities and Item names currently won't display properly
   
-#Special Thanks
+# Special Thanks
   -The PokeLink team, who made this great app
   -Alithinar on the PokeLink discord, who made the offset finder code
   -Sliphonatose on the PokeLink discord
